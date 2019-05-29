@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/36497538/54810792-00eb8900-4cad-11e9-8609-d0cc0810fab4.jpg" width="600" title="Train Distibution">
-</p>
+
 Data: Memorial Sloan Kettering Cancer Center (MSKCC)
 
 Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment
